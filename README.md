@@ -14,12 +14,13 @@ Valid parameters are as follows:
 the process list is defined with a given process name on each line.
 
 If you want to prevent shutdown if eg. Visual Studio, Steam, firefox or Notepad are running, type in the file like this:
----------
-devenv
-Steam
-firefox
-notepad
----------
+
+
+  devenv
+  Steam
+  firefox
+  notepad
+
 
 file extensions like .exe are not required
 
