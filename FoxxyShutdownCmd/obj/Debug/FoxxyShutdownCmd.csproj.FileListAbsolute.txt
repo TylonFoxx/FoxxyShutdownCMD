@@ -1,0 +1,7 @@
+C:\Users\Tylon\source\repos\FoxxyShutdownCmd\FoxxyShutdownCmd\bin\Debug\FoxxyShutdownCmd.exe
+C:\Users\Tylon\source\repos\FoxxyShutdownCmd\FoxxyShutdownCmd\bin\Debug\FoxxyShutdownCmd.pdb
+C:\Users\Tylon\source\repos\FoxxyShutdownCmd\FoxxyShutdownCmd\obj\Debug\FoxxyShutdownCmd.csprojAssemblyReference.cache
+C:\Users\Tylon\source\repos\FoxxyShutdownCmd\FoxxyShutdownCmd\obj\Debug\FoxxyShutdownCmd.csproj.CoreCompileInputs.cache
+C:\Users\Tylon\source\repos\FoxxyShutdownCmd\FoxxyShutdownCmd\obj\Debug\FoxxyShutdownCmd.exe
+C:\Users\Tylon\source\repos\FoxxyShutdownCmd\FoxxyShutdownCmd\obj\Debug\FoxxyShutdownCmd.pdb
+C:\Users\Tylon\source\repos\FoxxyShutdownCmd\FoxxyShutdownCmd\bin\Debug\processes.txt
