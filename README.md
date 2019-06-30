@@ -1,5 +1,5 @@
 # FoxxyShutdownCMD
-This small program can be used to invoke the shutdown command through Window's scheduler with a few extra features, depending on parameters
+This small program can be used to invoke the shutdown command through Window's Task Scheduler with a few extra features, depending on parameters
 
 A completed exe can be found in /bin/release
 Standard procedure shuts down the computer immediately, but still warns of open programs. Parameters can be added in any order.
